@@ -1,0 +1,29 @@
+{
+    "Livros": [
+      {
+        "id": 1,
+        "livro": "A razão do amor",
+        "autor": "Ali Hazelwood",
+        "imagem": "./assets/image/ARABook.jpg"
+      },
+      {
+        "id": 2,
+        "livro": "A hipótese do amor",
+        "autor": "Ali Hazelwood",
+        "imagem": "./assets/image/AHABook.jpg"
+      },
+      {
+        "id": 3,
+        "livro": "Quebrando o gelo",
+        "autor": "Hanna Grace",
+        "imagem": "./assets/image/QGBook.jpg"
+      },
+      {
+        "id": 4,
+        "livro": "Vermelho, branco e sangue azul",
+        "autor": "Casey McQuiston",
+        "imagem": "./assets/image/VBSABook.jpg"
+      }
+    ]
+  }
+  
